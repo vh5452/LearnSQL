@@ -35,14 +35,14 @@ INSERT INTO student_rating
      group_name, average_rating, min_average_subject, max_average_subject)
 VALUES
     (N'Тетяна Їжакевич', N'місто Бахмач', N'Іспанія', '1966-05-13', 'zakharfartushniak@example.net', '524124440213', 'BackEnd', 83.71, 'Mathematics', 'Network'),
-(N'Златослава Голик', N'хутір Бобринець', N'Оман', '1949-12-21', 'zhrytsenko@example.com', '039521545972', 'BackEnd', 67.78, 'Network', 'Python'),
-(N'Герман Гайворонський', N'селище Сокаль', N'Того', '2012-01-21', 'iderkach@example.net', '696009313094', 'BackEnd', 66.19, 'JavaScript', 'Python'),
-(N'добродійка Соломія Бабʼяк', N'місто Дружківка', N'Куба', '1991-02-27', 'sahalavhustyn@example.org', '885121883603', 'FrontEnd', 80.57, 'Python', 'JavaScript'),
-(N'Ростислав Коваленко', N'селище Ковель', N'Казахстан', '2019-02-07', 'lubenetsserhii@example.net', '101331833094', 'BackEnd', 87.78, 'Python', 'JavaScript'),
-(N'Мартин Дахно', N'селище Коростень', N'Велика Британія', '1918-10-04', 'vasylenkoalina@example.net', '098220360777', 'BackEnd', 62.23, 'SQL', 'Network'),
-(N'Ярослав Ребрик', N'село Алмазна', N'Ефіопія', '1973-08-19', 'tymofii03@example.org', '338384197591', 'QA', 98.8, 'HTML', 'JavaScript'),
-(N'Богуслава Бабко', N'село Почаїв', N'Сербія', '1971-07-08', 'marko52@example.net', '913515315125', 'BackEnd', 93.91, 'HTML', 'SQL'),
-(N'Ґерус Роман Єлисейович', N'село Гуляйполе', N'Домініканська Республіка', '1996-01-15', 'davyd23@example.org', '722766597991', 'BackEnd', 81.35, 'Mathematics', 'SQL');
+    (N'Златослава Голик', N'хутір Бобринець', N'Оман', '1949-12-21', 'zhrytsenko@example.com', '039521545972', 'BackEnd', 67.78, 'Network', 'Python'),
+    (N'Герман Гайворонський', N'селище Сокаль', N'Того', '2012-01-21', 'iderkach@example.net', '696009313094', 'BackEnd', 66.19, 'JavaScript', 'Python'),
+    (N'добродійка Соломія Бабʼяк', N'місто Дружківка', N'Куба', '1991-02-27', 'sahalavhustyn@example.org', '885121883603', 'FrontEnd', 80.57, 'Python', 'JavaScript'),
+    (N'Ростислав Коваленко', N'селище Ковель', N'Казахстан', '2019-02-07', 'lubenetsserhii@example.net', '101331833094', 'BackEnd', 87.78, 'Python', 'JavaScript'),
+    (N'Мартин Дахно', N'селище Коростень', N'Велика Британія', '1918-10-04', 'vasylenkoalina@example.net', '098220360777', 'BackEnd', 62.23, 'SQL', 'Network'),
+    (N'Ярослав Ребрик', N'село Алмазна', N'Ефіопія', '1973-08-19', 'tymofii03@example.org', '338384197591', 'QA', 98.8, 'HTML', 'JavaScript'),
+    (N'Богуслава Бабко', N'село Почаїв', N'Сербія', '1971-07-08', 'marko52@example.net', '913515315125', 'BackEnd', 93.91, 'HTML', 'SQL'),
+    (N'Ґерус Роман Єлисейович', N'село Гуляйполе', N'Домініканська Республіка', '1996-01-15', 'davyd23@example.org', '722766597991', 'BackEnd', 81.35, 'Mathematics', 'SQL');
 
 /*
 С помощью оператора SELECT получаем первые 5 записей таблицы student_rating
